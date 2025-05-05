@@ -1,0 +1,6 @@
+import 'package:flutter/material.dart';
+const color1 = Color.fromRGBO(0x17, 0x07, 0xfa, 1);
+const color2 = Color.fromRGBO(0x51, 0x33, 0xfb, 1);
+const color3 = Color.fromRGBO(0x8b, 0x5e, 0xfc, 1);
+const color4 = Color.fromRGBO(0xc5, 0x8a, 0xfe, 1);
+const color5 = Color.fromRGBO(0xff, 0xb6, 0xff, 1);
